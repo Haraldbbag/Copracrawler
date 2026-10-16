@@ -1,0 +1,14 @@
+# Zugangsdaten – niemals committen
+config.ini
+
+# Erzeugte Daten
+*.csv
+*.csv.tmp
+*.log
+*.log.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
